@@ -5,7 +5,6 @@ from google.cloud import vision
 import re
 from utils import FILES,initialize, select_file
 
-GOOGLE_APPLICATION_CREDENTIALS = os.environ["GOOGLE_APPLICATION_CREDENTIALS"]
 
 def chatGPTimageResult( prompt, Language = "English"):
 
