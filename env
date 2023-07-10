@@ -1,0 +1,2 @@
+OPENAI_API_KEY="sk-YOUR_OPEN_AI_API_KEY"
+GOOGLE_APPLICATION_CREDENTIALS = "Your_Microsoft_Credential_files_path.json"
